@@ -1,3 +1,4 @@
 # algorithms
 
-## Greedy algorithm
+## greedy algorithm
+## k-means clustering
