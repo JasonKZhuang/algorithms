@@ -1,3 +1,3 @@
 # algorithms
 
-## Greedy algorithms
+## Greedy algorithm
